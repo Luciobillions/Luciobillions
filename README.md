@@ -25,6 +25,7 @@ Fullstack Developer
 <img src="https://raw.githubusercontent.com/Luciobillions/Luciobillions/output/dist/snake.svg" alt="Snake animation" />
 
 
+
 ###
 
 
