@@ -22,7 +22,8 @@ Fullstack Developer
 [🎓 UTN Full-Stack Certificate](https://github.com/Luciobillions/Luciobillions/raw/main/Certificados-UTN-Bs-As.pdf)
 ###
 <h3 aling="left"> 🔥 My Stats: </h3>
-<img src="https://raw.githubusercontent.com/Luciobillions/Luciobillions/output/dist/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Luciobillions/Luciobillions/output/snake.svg" alt="Snake animation" />
+
 
 
 
