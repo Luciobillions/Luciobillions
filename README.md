@@ -20,8 +20,14 @@ Fullstack Developer
 
 ## 📜 Certifications
 [🎓 UTN Full-Stack Certificate](https://github.com/Luciobillions/Luciobillions/raw/main/Certificados-UTN-Bs-As.pdf)
+###
+<h3 aling="left"> 🔥 My Stats: </h3>
+<img src="https://raw.githubusercontent.com/Luciobillions/Luciobillions/output/snake.svg" alt="Snake animation" />
+
+###
 
 
 ### 📩 Contact Me
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luciogomezmolina1@gmail.com)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucio-gomez-a21381356/)
+
