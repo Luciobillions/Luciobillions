@@ -19,7 +19,7 @@ Fullstack Developer
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ## 📜 Certifications
-- This is my Full-Stack certificate from UTN Buenos Aires:  
+[🎓 UTN Full-Stack Certificate](https://github.com/Luciobillions/Luciobillions/raw/main/Certificados-UTN-Bs-As.pdf)
 
 
 ### 📩 Contact Me
